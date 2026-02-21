@@ -1,0 +1,21 @@
+# Core Python and data
+pandas
+matplotlib
+torch
+
+# Web API
+fastapi
+pydantic
+
+# vLLM
+vllm
+
+# Load testing
+locust
+
+# Prometheus
+prometheus-fastapi-instrumentator
+prometheus-client
+
+# ASGI server
+uvicorn
